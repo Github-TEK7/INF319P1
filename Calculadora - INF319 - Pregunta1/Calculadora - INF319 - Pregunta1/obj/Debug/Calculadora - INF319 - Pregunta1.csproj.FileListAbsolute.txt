@@ -1,0 +1,10 @@
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\bin\Debug\Calculadora - INF319 - Pregunta1.exe.config
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\bin\Debug\Calculadora - INF319 - Pregunta1.exe
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\bin\Debug\Calculadora - INF319 - Pregunta1.pdb
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\obj\Debug\Calculadora - INF319 - Pregunta1.csproj.AssemblyReference.cache
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\obj\Debug\Calculadora___INF319___Pregunta1.Form1.resources
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\obj\Debug\Calculadora___INF319___Pregunta1.Properties.Resources.resources
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\obj\Debug\Calculadora - INF319 - Pregunta1.csproj.GenerateResource.cache
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\obj\Debug\Calculadora - INF319 - Pregunta1.csproj.CoreCompileInputs.cache
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\obj\Debug\Calculadora - INF319 - Pregunta1.exe
+J:\OCTAVO SEMESTRE\INF-319\CODIGO\Calculadora - INF319 - Pregunta1\Calculadora - INF319 - Pregunta1\obj\Debug\Calculadora - INF319 - Pregunta1.pdb
