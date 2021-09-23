@@ -11,8 +11,8 @@ let main argv =
     let listai = [ for i in lista do if i%2<>0 then yield i ]
 
     printfn "La lista original es: %A" lista
-    printfn "La lista de pares es: %A" listai
-    printfn "La lista de impares es: %A" listap
+    printfn "La lista de pares es: %A" listap
+    printfn "La lista de impares es: %A" listai
 
     
     0 // return an integer exit code
