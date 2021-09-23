@@ -14,8 +14,8 @@ prolog.assertz("padre(carlos,debora)")
 
 #lista de padres (no lo utilizo porque se duplican valores al hacerlo correr mas de 2 veces)
 
-for elem in prolog.query("padre(X,Y)"):
-    print(elem["X"], "es el padre de", elem["Y"])
+#for elem in prolog.query("padre(X,Y)"):
+#    print(elem["X"], "es el padre de", elem["Y"])
 #for elem in prolog.query("padre(X,Y),padre(X,Z),(Y\==Z)"):
 #    print(elem["Y"], "es el hermano de", elem["Z"])
 #for elem in prolog.query("padre(X,Y),padre(Y,Z)"):
